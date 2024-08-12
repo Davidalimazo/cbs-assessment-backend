@@ -24,9 +24,19 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+CBS Assessment test API after installation visit the [documentation url](http://localhost:8080/docs#/) via http://localhost:8080/docs#/
 
 ## Installation
+
+Create a .env file and add
+
+```bash
+PORT=8080
+JWT_SECRET=zznIGcdGqq5nSV5bgQJBAPNidwJ0+7wfeLFuFyNx5z+PiT97YS11VKInazKDxzgK
+HTTP_TIMEOUT=5000
+HTTP_MAX_REDIRECTS=
+BASE_URL=https://fake-store-api.mock.beeceptor.com/api
+```
 
 ```bash
 $ npm install
@@ -58,16 +68,11 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Alimazoya David](https://www.linkedin.com/in/alimazoya-david/)
+- Website - [https://nestjs.com](https://davidalimazo.vercel.app/)
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).
