@@ -26,9 +26,11 @@
 
 CBS Assessment test API after installation visit the [documentation url](http://localhost:8080/docs#/) via http://localhost:8080/docs#/
 
+The answers to the questions are in the PDF file in the root of the directory
+
 ## Installation
 
-Create a .env file and add
+Create a .env file at the root of the project directory and add
 
 ```bash
 PORT=8080
