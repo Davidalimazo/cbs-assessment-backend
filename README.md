@@ -34,7 +34,7 @@ Create a .env file and add
 PORT=8080
 JWT_SECRET=zznIGcdGqq5nSV5bgQJBAPNidwJ0+7wfeLFuFyNx5z+PiT97YS11VKInazKDxzgK
 HTTP_TIMEOUT=5000
-HTTP_MAX_REDIRECTS=
+HTTP_MAX_REDIRECTS=5
 BASE_URL=https://fake-store-api.mock.beeceptor.com/api
 ```
 
